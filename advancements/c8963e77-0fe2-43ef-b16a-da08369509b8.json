@@ -308,6 +308,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-06-22 16:00:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-06-22 16:20:54 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-06-11 18:41:42 +0700"
@@ -602,6 +614,7 @@
       "minecraft:phantom": "2020-06-19 22:05:42 +0700",
       "minecraft:witch": "2020-06-14 21:48:53 +0700",
       "minecraft:wither_skeleton": "2020-06-16 19:42:43 +0700",
+      "minecraft:cave_spider": "2020-06-22 14:35:13 +0700",
       "minecraft:silverfish": "2020-06-11 18:53:54 +0700",
       "minecraft:enderman": "2020-06-14 16:58:06 +0700",
       "minecraft:zombie": "2020-06-11 18:58:59 +0700",
@@ -838,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2020-06-22 15:19:40 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-06-11 18:42:58 +0700"
@@ -901,6 +920,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-06-11 19:32:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-06-22 15:19:40 +0700"
     },
     "done": true
   },
@@ -1123,6 +1148,7 @@
       "minecraft:taiga": "2020-06-14 12:32:27 +0700",
       "minecraft:deep_cold_ocean": "2020-06-19 21:35:29 +0700",
       "minecraft:taiga_hills": "2020-06-19 21:23:40 +0700",
+      "minecraft:deep_frozen_ocean": "2020-06-22 14:56:51 +0700",
       "minecraft:jungle": "2020-06-11 18:21:54 +0700",
       "minecraft:birch_forest": "2020-06-19 21:45:06 +0700",
       "minecraft:jungle_hills": "2020-06-11 18:21:04 +0700",
@@ -1144,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-06-22 16:28:09 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-06-11 18:28:33 +0700"
@@ -1153,6 +1185,12 @@
   "minecraft:recipes/misc/lapis_from_smelting": {
     "criteria": {
       "has_lapis_ore": "2020-06-14 17:34:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-06-22 15:19:40 +0700"
     },
     "done": true
   },
@@ -1653,6 +1691,7 @@
       "pumpkin_pie": "2020-06-19 22:59:18 +0700",
       "rotten_flesh": "2020-06-18 15:37:49 +0700",
       "dried_kelp": "2020-06-11 18:36:29 +0700",
+      "golden_carrot": "2020-06-22 16:03:59 +0700",
       "cooked_chicken": "2020-06-11 18:35:32 +0700"
     },
     "done": false
@@ -1907,6 +1946,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-06-11 18:39:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-06-22 16:20:54 +0700"
     },
     "done": true
   },
@@ -2177,6 +2222,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-06-18 20:42:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-06-22 16:00:15 +0700"
     },
     "done": true
   },
