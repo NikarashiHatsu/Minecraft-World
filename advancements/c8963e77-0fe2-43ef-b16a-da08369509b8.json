@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2020-06-30 12:54:16 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-06-11 18:41:42 +0700"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-06-18 20:42:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2020-06-25 16:33:16 +0700"
     },
     "done": true
   },
@@ -488,6 +500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2020-06-30 12:24:18 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2020-06-11 21:34:56 +0700"
@@ -583,6 +601,7 @@
       "minecraft:blaze": "2020-06-16 19:44:48 +0700",
       "minecraft:skeleton": "2020-06-11 18:59:34 +0700",
       "minecraft:ghast": "2020-06-14 18:49:03 +0700",
+      "minecraft:hoglin": "2020-06-25 16:36:23 +0700",
       "minecraft:magma_cube": "2020-06-14 18:42:47 +0700",
       "minecraft:spider": "2020-06-11 18:42:51 +0700",
       "minecraft:creeper": "2020-06-11 18:42:16 +0700",
@@ -591,6 +610,7 @@
       "minecraft:witch": "2020-06-14 21:48:53 +0700",
       "minecraft:wither_skeleton": "2020-06-16 19:42:43 +0700",
       "minecraft:cave_spider": "2020-06-22 14:35:13 +0700",
+      "minecraft:piglin": "2020-06-25 16:36:10 +0700",
       "minecraft:silverfish": "2020-06-11 18:53:54 +0700",
       "minecraft:enderman": "2020-06-14 16:58:06 +0700",
       "minecraft:zombie": "2020-06-11 18:58:59 +0700",
@@ -725,6 +745,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-06-30 12:54:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-06-30 12:40:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-06-18 20:42:05 +0700"
@@ -743,6 +775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2020-06-30 12:02:06 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-06-19 13:46:59 +0700"
@@ -758,6 +796,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2020-06-11 18:43:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2020-06-30 12:02:06 +0700"
     },
     "done": true
   },
@@ -1010,6 +1054,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2020-06-19 13:46:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2020-06-30 12:02:06 +0700"
     },
     "done": true
   },
@@ -1310,6 +1360,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2020-06-25 16:32:29 +0700",
       "minecraft:nether_wastes": "2020-06-25 00:50:00 +0700",
       "minecraft:soul_sand_valley": "2020-06-25 01:04:57 +0700"
     },
@@ -1666,6 +1717,7 @@
       "potato": "2020-06-14 14:19:19 +0700",
       "poisonous_potato": "2020-06-18 15:38:01 +0700",
       "pumpkin_pie": "2020-06-19 22:59:18 +0700",
+      "bread": "2020-06-30 12:49:01 +0700",
       "rotten_flesh": "2020-06-18 15:37:49 +0700",
       "dried_kelp": "2020-06-11 18:36:29 +0700",
       "golden_carrot": "2020-06-22 16:03:59 +0700",
@@ -1682,6 +1734,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-06-11 18:22:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2020-06-30 12:54:16 +0700"
     },
     "done": true
   },
@@ -2526,6 +2584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2020-06-25 16:33:16 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-06-11 19:05:28 +0700"
@@ -2859,6 +2923,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2020-06-11 20:46:30 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2020-06-25 16:32:30 +0700"
     },
     "done": true
   },
